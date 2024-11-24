@@ -35,7 +35,7 @@ int main()
       }
       
       printf("Sorted Array \n");
-      for(int i=0;i<5;i++)
+      for(int i=0;i<n;i++)
         {
             printf("%d\t",arr[i]);
         }
