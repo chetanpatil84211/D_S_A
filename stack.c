@@ -17,7 +17,7 @@ int main()
  s->top=-1;
  s->arr=(int *)malloc(s->size*sizeof(int));
   
-  //// Adding an element to the stack
+  // Adding an element to the stack
   s->arr[0]=3;
   s->top++;
 
